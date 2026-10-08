@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- newest release first -->
     <item>
+      <title>Version 0.1.2</title>
+      <pubDate>Thu, 08 Oct 2026 22:17:39 GMT</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New &quot;About Undertone&quot; in the settings menu, with links to Skirnir Studios and to report a problem</li><li>New &quot;Send Feedback…&quot; in the settings menu</li></ul>]]></description>
+      <enclosure url="https://github.com/SkirnirStudios/Undertone/releases/download/v0.1.2/Undertone-0.1.2.dmg" sparkle:edSignature="9qag8zgH6rkTA9g2oDq3NHlY6IQKkBGMPDX6i2jdXrNqwafVtdJm4muFb04EB7iqV65W88Nv0E3tuOtpa8zCCA==" length="3108359" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.1.1</title>
       <pubDate>Thu, 08 Oct 2026 21:53:17 GMT</pubDate>
       <sparkle:version>2</sparkle:version>
