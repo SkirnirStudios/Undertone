@@ -6,5 +6,14 @@
     <description>Updates for Undertone</description>
     <language>en</language>
     <!-- newest release first -->
+    <item>
+      <title>Version 0.1.1</title>
+      <pubDate>Thu, 08 Oct 2026 21:53:17 GMT</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Set each app&#x27;s volume from 0 to 200%, or mute it</li><li>Send any app to its own output, like music to the speakers and calls to AirPods</li><li>Other apps fade down automatically while you&#x27;re on a call</li><li>Scroll over an app to adjust it, or use ⌃⌥⌘↑ / ⌃⌥⌘↓ / ⌃⌥⌘M for the app in front</li><li>Live level meters, smooth fades, and a soft limiter so boosted audio stays clean</li><li>Automatic updates</li></ul>]]></description>
+      <enclosure url="https://github.com/SkirnirStudios/Undertone/releases/download/v0.1.1/Undertone-0.1.1.dmg" sparkle:edSignature="IuiFNFwiJvJ1h6qUtm1p70rZhHDQk9TNEeXDAbYHvR+EVbqA6HWfI4+VO9q9bPGHE+1y/zvyfftiijNF1FaoAw==" length="3085913" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
