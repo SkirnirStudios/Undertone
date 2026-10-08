@@ -38,3 +38,7 @@ Choose **Quit Undertone** from its settings menu (the gear), then drag it from A
 ## Feedback
 
 Found a bug or have an idea? [Open an issue](https://github.com/SkirnirStudios/Undertone/issues).
+
+---
+
+<p align="center">Made by <a href="https://www.skirnirstudios.com">Skirnir Studios</a></p>
