@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- newest release first -->
     <item>
+      <title>Version 0.2.0</title>
+      <pubDate>Sat, 10 Oct 2026 00:15:03 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Volume limits: set the most each output can play at, and the volume keys stop there. App boosts stay within it too</li><li>Balance and mono for each app, including playing an app entirely in your left or right ear. Open an app&#x27;s options (⋯) to find them</li><li>Protect from Sudden Loud Sounds: for the apps you choose, a notification after silence or a bang in a quiet scene eases in instead of hitting at full force</li><li>Smarter lowering of other apps during calls: pick any level from 10% to 80%, and they now fade back up gently afterwards. For voice chat like Discord, choose &quot;while someone talks in it&quot; in the app&#x27;s options (⋯) so your game only dips while friends are actually talking. You can also stop an app&#x27;s mic from lowering others, or keep an app from ever being lowered</li><li>Mute your microphone from anywhere with ⌃⌥⌘0, or with the button that appears while an app is using it. The menu bar icon turns red while you&#x27;re muted</li><li>Full keyboard control: ⌃⌥⌘U opens Undertone from anywhere, then use the arrow keys to choose an app and set its volume, M to mute and Return for its options</li><li>The volume shortcuts (⌃⌥⌘↑ ↓ M) now change the app that&#x27;s actually playing when the app in front isn&#x27;t, and show which app they changed</li><li>Works well with VoiceOver: everything is labeled, and each app&#x27;s actions are in the Actions rotor</li><li>A friendlier first launch: Undertone opens its menu to show you where it lives, explains its one permission (and the purple dot) in plain words, and offers to open at login</li><li>Apps you&#x27;ve turned down no longer blast at full volume for a moment when they start playing, open a helper process, or move to another output</li><li>Undertone lets your speakers or headphones sleep a couple of seconds after the sound stops, so AirPods can switch to your iPhone again and the purple recording indicator goes out</li><li>Less crackling on Bluetooth headphones</li><li>If macOS stops delivering an app&#x27;s sound, Undertone notices and recovers by itself</li><li>A note in the menu when another volume app, like SoundSource, is also running, since two can get in each other&#x27;s way</li><li>Saved settings are kept even if part of them can&#x27;t be read</li></ul>]]></description>
+      <enclosure url="https://github.com/SkirnirStudios/Undertone/releases/download/v0.2.0/Undertone-0.2.0.dmg" sparkle:edSignature="76x7KXfuHYPhAnVqGKlffj22DLOZ0rUqR/iC0Frbkx17XB2nM9NiNQv2LG8dPExssG4WfblJL09kqnYsHXrUBQ==" length="3481994" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.1.2</title>
       <pubDate>Thu, 08 Oct 2026 22:17:39 GMT</pubDate>
       <sparkle:version>3</sparkle:version>
